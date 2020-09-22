@@ -1,0 +1,12 @@
+<templateSet group="SilverStripe PHP">
+  <template name="dd" value="debug::dump();" description="debug dump" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ndd" value="\SilverStripe\Dev\Debug::dump();" description="Namespaced Debug Dump" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
