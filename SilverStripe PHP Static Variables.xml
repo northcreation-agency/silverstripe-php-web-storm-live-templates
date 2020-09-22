@@ -62,4 +62,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="owns" value="/**&#10; * @var array&#10; */&#10;private static $owns = [&#10;    '$END$'&#10;];" description="Owns" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
