@@ -1,4 +1,6 @@
 # SilverStripe live templates
+[![Mentioned in Awesome Silverstripe CMS](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/wernerkrauss/awesome-silverstripe)
+
 My collection of live templates for WebStorm and PhpStorm, following PSR-2, using PHPDoc, and utilizing PHP 5.4 array shorthand syntax. These templates do not attempt cover every field, variable, nor function, but are a collection of snippets that I frequently use in my daily work. Feel free to [open issues](https://github.com/jjjjjjjjjjjjjjjjjjjj/silverstripe-phpstorm-live-templates/issues) to suggest additional templates.
 
 # Installation
